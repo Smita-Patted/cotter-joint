@@ -215,7 +215,6 @@ else:
     print("Since,σb > Sd")
     print("Therfore pin fails in bending")
 
-print("***************Fuckkkkkkkkkkkkkkkkk you Maheshhhhhhhh*****************")
 
 
 # t2_ = ((load*1000)/(3.142*d1*ssd))
